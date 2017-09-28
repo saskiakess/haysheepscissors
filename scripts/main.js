@@ -2,6 +2,8 @@
 // Author: Saskia Keskpaik
 // saskia.keskpaik@gmail.com
 
+// for review
+
  
 window.onload = function(){
 
